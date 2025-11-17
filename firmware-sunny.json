@@ -1,0 +1,38 @@
+{
+  "parts": [
+    "abl",
+    "aop",
+    "bluetooth",
+    "cmnlib",
+    "cmnlib64",
+    "devcfg",
+    "dsp",
+    "hyp",
+    "imagefv",
+    "keymaster",
+    "modem",
+    "qupfw",
+    "tz",
+    "uefisecapp",
+    "xbl",
+    "xbl_config"
+  ],
+  "files": {
+    "abl": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/abl.img",
+    "aop": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/aop.img",
+    "bluetooth": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/bluetooth.img",
+    "cmnlib": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/cmnlib.img",
+    "cmnlib64": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/cmnlib64.img",
+    "devcfg": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/devcfg.img",
+    "dsp": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/dsp.img",
+    "hyp": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/hyp.img",
+    "imagefv": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/imagefv.img",
+    "keymaster": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/keymaster.img",
+    "modem": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/modem.img",
+    "qupfw": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/qupfw.img",
+    "tz": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/tz.img",
+    "uefisecapp": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/uefisecapp.img",
+    "xbl": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/xbl.img",
+    "xbl_config": "https://raw.githubusercontent.com/voidxog/firmware-sunny/main/xbl_config.img"
+  }
+}
