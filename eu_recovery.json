@@ -1,0 +1,10 @@
+{
+  "parts": [
+    "boot",
+    "vendor_boot"
+  ],
+  "files": {
+    "boot": "https://github.com/voidxog/firmware-sunny/releases/download/EU_14.0.8.0.SKGMIXM/boot.img",
+    "vendor_boot": "https://github.com/voidxog/firmware-sunny/releases/download/EU_14.0.8.0.SKGMIXM/vendor_boot.img"
+  }
+}
