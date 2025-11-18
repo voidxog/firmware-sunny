@@ -1,0 +1,10 @@
+{
+  "parts": [
+    "boot",
+    "vendor_boot"
+  ],
+  "files": {
+    "boot": "https://github.com/voidxog/firmware-sunny/releases/download/YAAP-16-Banshee-20251104/boot.img",
+    "vendor_boot": "https://github.com/voidxog/firmware-sunny/releases/download/YAAP-16-Banshee-20251104/vendor_boot.img"
+  }
+}
